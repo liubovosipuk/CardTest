@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Assets/Scenes/SampleScene.unity
+ProjectSettings/ProjectSettings.asset
+UserSettings/EditorUserSettings.asset
